@@ -1,52 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://example.com/</link>
-    <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Jul 2016 22:42:34 -0700</pubDate>
-    <lastBuildDate>Sat, 02 Jul 2016 22:42:34 -0700</lastBuildDate>
+    <title>XING</title>
+    <description></description>
+    <link>http://e.com/</link>
+    <atom:link href="http://e.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 03 Jul 2016 00:29:57 -0700</pubDate>
+    <lastBuildDate>Sun, 03 Jul 2016 00:29:57 -0700</lastBuildDate>
     <generator>Jekyll v3.2.0.pre.beta1</generator>
     
       <item>
-        <title>JOSEPHWEI</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=ujQfJP2B7cU &quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/ujQfJP2B7cU/0.jpg&quot; alt=&quot;IMAGE ALT TEXT HERE&quot; width=&quot;240&quot; height=&quot;180&quot; border=&quot;10&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
+        <title>SHOUVIK X NIKHIL</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://youtu.be/cSPuvaFIx8c&quot; title=&quot;Video Title&quot;&gt;&lt;img src=&quot;http://i1.ytimg.com/vi/cSPuvaFIx8c/maxresdefault.jpg&quot; alt=&quot;IMAGE ALT TEXT&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 02 Jul 2016 21:44:14 -0700</pubDate>
-        <link>http://example.com/2016/07/02/josephwei.html</link>
-        <guid isPermaLink="true">http://example.com/2016/07/02/josephwei.html</guid>
+        <pubDate>Sun, 03 Jul 2016 00:25:40 -0700</pubDate>
+        <link>http://e.com/2016/07/03/shouvik-x-nikhil.html</link>
+        <guid isPermaLink="true">http://e.com/2016/07/03/shouvik-x-nikhil.html</guid>
         
         
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
+        <title>TEST001</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://youtu.be/xAW-CGe669o&quot; title=&quot;Video Title&quot;&gt;&lt;img src=&quot;http://i1.ytimg.com/vi/xAW-CGe669o/maxresdefault.jpg&quot; alt=&quot;IMAGE ALT TEXT&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 02 Jul 2016 21:43:36 -0700</pubDate>
-        <link>http://example.com/jekyll/update/2016/07/02/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://example.com/jekyll/update/2016/07/02/welcome-to-jekyll.html</guid>
+        <pubDate>Sun, 03 Jul 2016 00:17:15 -0700</pubDate>
+        <link>http://e.com/2016/07/03/test001.html</link>
+        <guid isPermaLink="true">http://e.com/2016/07/03/test001.html</guid>
         
         
-        <category>jekyll</category>
+      </item>
+    
+      <item>
+        <title>NIKHILGANESH</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://youtu.be/qhgQmAZMF9o&quot; title=&quot;Video Title&quot;&gt;&lt;img src=&quot;http://i1.ytimg.com/vi/qhgQmAZMF9o/maxresdefault.jpg&quot; alt=&quot;IMAGE ALT TEXT&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- &lt;a href=&quot;ttps://soundcloud.com/nikhilganesh&quot;&gt;https://soundcloud.com/nikhilganesh&lt;/a&gt; --&gt;
+</description>
+        <pubDate>Sun, 03 Jul 2016 00:06:30 -0700</pubDate>
+        <link>http://e.com/2016/07/03/nikhilganesh.html</link>
+        <guid isPermaLink="true">http://e.com/2016/07/03/nikhilganesh.html</guid>
         
-        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>JOSEPHWEI</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ujQfJP2B7cU&quot; title=&quot;Video Title&quot;&gt;&lt;img src=&quot;http://i.imgur.com/yzriXH1.jpg&quot; alt=&quot;IMAGE ALT TEXT&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- &lt;a href=&quot;http://www.youtube.com/watch?feature=player_embedded&amp;v=ujQfJP2B7cU
+&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/ujQfJP2B7cU/0.jpg&quot; 
+alt=&quot;IMAGE ALT TEXT HERE&quot; width=&quot;240&quot; height=&quot;180&quot; border=&quot;10&quot; /&gt;&lt;/a&gt;
+
+[![JOSEPHWEI](http://imgur.com/yzriXH1)](https://youtu.be/ujQfJP2B7cU &quot;JOSEPHWEI&quot;)
+
+[Imgur](http://i.imgur.com/yzriXH1.jpg)
+ --&gt;
+</description>
+        <pubDate>Sat, 02 Jul 2016 21:44:14 -0700</pubDate>
+        <link>http://e.com/2016/07/02/josephwei.html</link>
+        <guid isPermaLink="true">http://e.com/2016/07/02/josephwei.html</guid>
+        
         
       </item>
     
