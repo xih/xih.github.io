@@ -16,9 +16,8 @@ title: XING
 email: yxing@berkeley.edu 
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://e.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: 
-github_username:
 
 # Build settings
 markdown: kramdown
