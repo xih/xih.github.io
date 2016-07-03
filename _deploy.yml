@@ -1,0 +1,6 @@
+method: git
+site_dir: _site
+git_url: git@github.com:xih/xih.github.io.git
+git_branch: master
+deploy_dir: .deploy
+remote: deploy

@@ -1,0 +1,6 @@
+---
+title: TEST001
+date: 2016-07-03T00:17:15-07:00
+---
+
+[![IMAGE ALT TEXT](http://i1.ytimg.com/vi/xAW-CGe669o/maxresdefault.jpg)](https://youtu.be/xAW-CGe669o "Video Title")
